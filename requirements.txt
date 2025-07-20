@@ -1,0 +1,5 @@
+PyPDF2
+Pillow
+comtypes
+reportlab
+tkinterdnd2

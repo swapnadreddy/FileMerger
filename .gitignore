@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+*.egg
+dist/
+build/
+temp_split/
+
+# Executables and temporary files
+*.exe
+*.pdf
+*.docx
+*.jpg
+*.png
+*.txt
+
+# OS-specific
+.DS_Store
